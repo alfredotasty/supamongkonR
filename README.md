@@ -3,12 +3,15 @@
 
 ## My Experience
 
-- <img src = "https://openseauserdata.com/files/632cd4bf6b67d2f713f2dd105f8bc4dc.gif" width="50px"> Senior Blockchain Developer at The Brooker Group :bank: (**CURRENT**)
-- <img src = "https://media0.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="50px"> Junior Blockchain developer ARV(AI Robotic and Ventures) 🤖 (**PAST**)
+ <img src = "https://openseauserdata.com/files/632cd4bf6b67d2f713f2dd105f8bc4dc.gif" width="50px"> Senior Blockchain Developer at The Brooker Group :bank: (**CURRENT**)<br>
+ <img src = "https://media0.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="50px"> Junior Blockchain developer ARV(AI Robotic and Ventures) 🤖 (**PAST**)
 
 ## Sharing Knowledge
 my blog
 - https://medium.com/@supamongkon.r 🧑🏻‍💻
+
+## Contract
+supamongkon.r@gmail.com
 <!--
 **supamongkonR/supamongkonR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
